@@ -1,4 +1,4 @@
-# front_of5
+# PRIMEIRO DEVE-SE CONFIGURAR INICIAR O BACKEND
 
 ## Project setup
 ```
@@ -24,6 +24,4 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ 
